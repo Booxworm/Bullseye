@@ -9,7 +9,7 @@ You can also let the computer guess a number that you set!
 
 # To play this game
 
-Make sure you have [python](https://www.python.org/downloads/) intalled. After that, just clone the repo and run the program!
+Make sure you have [Python](https://www.python.org/downloads/) intalled. After that, just clone the repo and run the program!
 ```
 git clone https://github.com/Booxworm/Bullseye.git
 cd Bullseye
